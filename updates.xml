@@ -1,0 +1,10 @@
+?xml version="1.0" encoding="utf-8" ?>
+<clientupdate>
+  <version>1.0 </version>
+  <url>some-url.com</url>
+</clientupdate>
+
+<someupdate>
+  <version>1.0</version>
+  <url>some-url.net</url>
+</someupdate>
